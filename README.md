@@ -1,2 +1,2 @@
 # Calculator
-First app using Java..
+Calculator App
